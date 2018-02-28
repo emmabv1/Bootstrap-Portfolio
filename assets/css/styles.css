@@ -1,0 +1,46 @@
+body {
+   
+  font-family: 'Goudy Bookletter 1911', serif;
+  background-color: rgb(217, 216, 214);
+  /*background-color: rgb(196, 13, 60);*/
+  /*background-color: rgb(241, 228, 178);*/
+  /*background-color: rgb(17, 25, 33);*/
+  
+}
+
+.row {
+padding: 1%;
+}
+
+.navbar {
+background-color: rgb(17, 25, 33);
+}
+
+#logo {
+width:70%;
+}
+
+#name {
+font-size: 30px;
+color: rgb(217, 216, 214);
+}
+
+#content {
+margin-top: 10%;
+color: rgb(17, 25, 33); 
+}
+
+.img-responsive {
+border: 5px solid rgb(196, 13, 60);
+}
+
+#link {
+color: rgb(241, 228, 178);
+font-size: 15px;
+}
+
+.footer{
+background-color: rgb(17, 25, 33);
+padding:1%;
+margin:0;
+}
