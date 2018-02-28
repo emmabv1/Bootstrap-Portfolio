@@ -17,7 +17,7 @@ background-color: rgb(17, 25, 33);
 }
 
 #logo {
-width:70%;
+width:100%;
 }
 
 #name {
@@ -25,7 +25,7 @@ font-size: 30px;
 color: rgb(217, 216, 214);
 }
 
-#content {
+.content {
 margin-top: 10%;
 color: rgb(17, 25, 33); 
 }
@@ -36,11 +36,15 @@ border: 5px solid rgb(196, 13, 60);
 
 #link {
 color: rgb(241, 228, 178);
-font-size: 15px;
+font-size: 20px;
 }
 
 .footer{
 background-color: rgb(17, 25, 33);
 padding:1%;
 margin:0;
+}
+
+p {
+  font-size: 18px;
 }
